@@ -33,5 +33,11 @@
 
 To quickly create a new project with CRA NEXT, run the following:
 
+for Bun:
 ```bash
-npx cra-next my-app
+bunx cra-next-ts my-app
+```
+For Node.JS
+```bash
+npx cra-next-ts my-app
+```
